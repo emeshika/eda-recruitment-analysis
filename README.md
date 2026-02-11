@@ -1,4 +1,4 @@
-##Exploratory Data Analysis (EDA) - Recruitment Dataset 
+## Exploratory Data Analysis (EDA) - Recruitment Dataset 
 
 **Project Overview**
 This project focuses on performing a comprehensive exploratory analysis on recruitment data to identify patterns in hiring, candidate qualifications, and recruitment bottlenecks. The goal is to transform raw data into actionable insights that can improve hiring efficiency.
